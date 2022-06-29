@@ -1,5 +1,5 @@
 ### Olá, eu sou a Sarah 👋
-##
+<hr>
 
 - 🔭 Estou trabalhando como Jovem Aprendiz em uma empresa de soluções digitais
 - 🌱 Sou estudante do curso técnico Desenvolvimento de Sistemas na ETEC
@@ -24,7 +24,7 @@
  ## 
  
 <h3> Algumas linguagens e ferramentas que tive contato: </h3>
-  
+
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/C%23-f2e2c3?style=for-the-badge&logo=c-sharp&logoColor=98404e"/> 
   <img src="https://img.shields.io/badge/Python-f2e2c3?style=for-the-badge&logo=python&logoColor=98404e"/> 
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Java-f2e2c3?style=for-the-badge&logo=java&logoColor=98404e"/> 
   <img src="https://img.shields.io/badge/PHP-f2e2c3?style=for-the-badge&logo=php&logoColor=98404e"/> 
   <img src="https://img.shields.io/badge/MySQL-f2e2c3?style=for-the-badge&logo=mysql&logoColor=98404e"/> 
-  
 </div>
   
   ##
