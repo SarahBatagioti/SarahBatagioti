@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Estou trabalhando como Jovem Aprendiz em uma empresa de soluções digitais
-- 🌱 Sou estudante do 2º ano no curso técnico Desenvolvimento de Sistemas na ETEC
+- 🌱 Sou estudante do 3º ano no curso técnico Desenvolvimento de Sistemas na ETEC
 
 <!--
 - 🔭 I’m currently working on ...
