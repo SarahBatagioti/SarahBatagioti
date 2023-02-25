@@ -1,39 +1,20 @@
 ### Olá, eu sou a Sarah 👋
 <hr>
 
-- 🔭 Estou trabalhando como Jovem Aprendiz em uma empresa de soluções digitais
+- 🔭 Estou trabalhando como desenvolvedora aprendiz em uma empresa de soluções digitais
 - 🌱 Sou estudante do 3º ano no curso técnico Desenvolvimento de Sistemas na ETEC
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
   
  ## 
  
-<h3> Algumas linguagens e ferramentas que tive contato: </h3>
+## 🛠️ Linguagens e ferramentas: 
 
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/C%23-f2e2c3?style=for-the-badge&logo=c-sharp&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/Python-f2e2c3?style=for-the-badge&logo=python&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/HTML-f2e2c3?style=for-the-badge&logo=html5&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/CSS-f2e2c3?&style=for-the-badge&logo=css3&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/JavaScript-f2e2c3?style=for-the-badge&logo=javascript&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/Java-f2e2c3?style=for-the-badge&logo=java&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/PHP-f2e2c3?style=for-the-badge&logo=php&logoColor=98404e"/> 
-  <img src="https://img.shields.io/badge/MySQL-f2e2c3?style=for-the-badge&logo=mysql&logoColor=98404e"/> 
-</div>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
   
-  ##
+  ## 🔗 Links
  
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/sarah.montuani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sarah.montuanibt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-montuani-batagioti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
+
