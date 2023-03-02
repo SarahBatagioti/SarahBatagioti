@@ -1,4 +1,4 @@
-### Olá, eu sou a Sarah 👋
+### Olá, eu sou a Sarah! 👋
 <hr>
 
 - 🔭 Estou trabalhando como desenvolvedora aprendiz em uma empresa de soluções digitais
@@ -18,3 +18,4 @@
   <a href="www.linkedin.com/in/SarahBatagioti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
+ 
