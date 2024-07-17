@@ -1,8 +1,8 @@
 ### Olá, eu sou a Sarah! 👋
 <hr>
 
-- 🔭 Estou trabalhando como desenvolvedora aprendiz em uma empresa de soluções digitais
-- 🌱 Sou estudante do 3º ano no curso técnico Desenvolvimento de Sistemas na ETEC
+- 🔭 Estou trabalhando como analista de teste em uma empresa de soluções digitais
+- 🌱 Sou estudante do 2° semestre no curso de graduação de Desenvolvimento de Software Multiplataforma
   
  ## 
  
